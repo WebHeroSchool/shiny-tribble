@@ -7,7 +7,7 @@
 
   @font-face {
     font-family: "Oswald", sans-serif;
-    url(C:\Users\atolo\Documents\Fonts\Oswald-Bold.ttf);
+    scr: url(C:\Users\atolo\Documents\Fonts\Oswald-Bold.ttf);
     font-weight: bold;
     font-style: normal;
   }
