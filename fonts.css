@@ -1,0 +1,13 @@
+@face-font {
+  font-family: "Montserrat", sans-serif;
+  src: url(C:\Users\atolo\Documents\Fonts\Montserrat-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@face-font {
+  font-family: "Oswald", sans-serif;
+  scr: url(C:\Users\atolo\Documents\Fonts\Oswald-Bold.ttf);
+  font-weight: bold;
+  font-style: normal;
+}
