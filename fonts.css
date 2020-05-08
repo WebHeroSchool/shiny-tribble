@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Montserrat", sans-serif;
+  src: url(./Fonts/Montserrat-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Oswald", sans-serif;
+  src: url(./Fonts/Oswald-Bold.ttf);
+  font-weight: bold;
+  font-style: normal;
+}
